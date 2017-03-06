@@ -11,12 +11,12 @@
     "express": "4.13.3"
   },
   "engines": {
-    "node": "5.6.0"
+    "node": "7.6.0"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/unended/js-dev-env-demo-api"
   },
-  "author": "Cory House",
+  "author": "Patrick Ashamalla",
   "license": "MIT"
 }
